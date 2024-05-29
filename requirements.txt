@@ -1,0 +1,9 @@
+
+### 3. requirements.txt
+
+List the libraries required for the assignment:
+
+```txt
+pandas
+scikit-learn
+numpy
